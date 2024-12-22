@@ -1,4 +1,4 @@
-name: JenkinsDocker
+name: jenkinsdocker
 services:
   jenkins:
     build:
